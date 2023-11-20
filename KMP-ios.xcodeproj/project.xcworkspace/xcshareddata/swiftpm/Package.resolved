@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "kmp-shared",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/VitaSokolova/KMP-shared.git",
+      "state" : {
+        "revision" : "1cc2dae00ca74c9ae51fe631ee1cab58fe044d62",
+        "version" : "0.1.3"
+      }
+    }
+  ],
+  "version" : 2
+}
